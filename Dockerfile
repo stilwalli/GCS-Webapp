@@ -1,4 +1,4 @@
-# Use the official Python image from the Docker Hub
+# Use the official Python image from the Docker Hub. Using Slip
 FROM python:3.10-slim
 
 # Set the working directory
